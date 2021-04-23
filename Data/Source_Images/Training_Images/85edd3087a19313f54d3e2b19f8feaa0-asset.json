@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "85edd3087a19313f54d3e2b19f8feaa0",
+        "name": "rs-save-to-disk-output-Color_gasport.png",
+        "path": "file:C:/Users/box/Desktop/training/rs-save-to-disk-output-Color_gasport.png",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "zVBZMvOdo",
+            "type": "RECTANGLE",
+            "tags": [
+                "fuelport"
+            ],
+            "boundingBox": {
+                "height": 86.4935064935065,
+                "width": 81.02251978088862,
+                "left": 568.5940353012782,
+                "top": 610.1298701298701
+            },
+            "points": [
+                {
+                    "x": 568.5940353012782,
+                    "y": 610.1298701298701
+                },
+                {
+                    "x": 649.6165550821668,
+                    "y": 610.1298701298701
+                },
+                {
+                    "x": 649.6165550821668,
+                    "y": 696.6233766233767
+                },
+                {
+                    "x": 568.5940353012782,
+                    "y": 696.6233766233767
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

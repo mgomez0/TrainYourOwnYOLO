@@ -1,0 +1,657 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiOGY5OWVlYzc2ZGIxMzY4NTdmMDdmOWE0YzlmZWM3NjUwNjQ5ODEyNThlMzJhNDNhZGE5ZDg3NzdiMzY5Y2ZlNTdjNzE1ZjRiNzA0MWMxOTdhMWE1OGIzZWI2ZDA3ZjJkY2M4YzUwYzNlM2YwNjhhMDc2MWI0YzdiMmMyZTJiODQiLCJpdiI6IjY3ZTk2ZDVlYTlhOTUwNWI0ZTA5MDdmYjJjN2RmMDFlY2RjNTRlNGM0Yjk3NmUzYyJ9"
+        },
+        "id": "AJ7VFVQ5N"
+    },
+    "targetConnection": {
+        "name": "Annotations",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNmUxZjMxOTgzYzVlNjAzYTI0YzQyZTM5MmJhN2ZkNWM5Mzk2ZmQ3OWRhNGI0OTY2NGRjMTU3ZWQ4ZWM3N2E3MTE3NzhlYjBjNTg5N2RmMzVmNjVhODk4ZGMyODIxOWFlOTYyMGM3ZmM2NGJhOTNjOTU2OGZhNmUxYjUxOTVlZGMiLCJpdiI6IjM3N2ZiMzI4NGI2YTdkYTBiMWY1ZDRlMWFhMjkyZTFmYzdhODQ1ZmNiZWI4MTg4YyJ9"
+        },
+        "id": "5tF7BPPcd"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "fuelport",
+            "color": "#5db300"
+        }
+    ],
+    "id": "82TTu896m",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNmE0Mzk2ZDczMzczYWM4NTFlZGE2NDVhMzk2ZWUzNjQxZjk2YWRmZDAyMzY3NGEyMjQxNDBhYTAzNTAwNmU1MTEyMzU4MzEzZjgzNDFhYjNlZjljYjI3OTYwM2JjZDRjIiwiaXYiOiI2MTYyNGIxMDk2ZDE4OGExMzY2MmEwZmIzZjZkMzExNjlhOTIxZTE2YmQzYTk2MDMifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "85edd3087a19313f54d3e2b19f8feaa0",
+    "assets": {
+        "ae5815a1425b3374b1b610ebe09a1d9a": {
+            "format": "png",
+            "id": "ae5815a1425b3374b1b610ebe09a1d9a",
+            "name": "10_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/10_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ce03da3e401ca855f9b83670bcc668f": {
+            "format": "png",
+            "id": "4ce03da3e401ca855f9b83670bcc668f",
+            "name": "11_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/11_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d09e9c5258db8f40b216b85595e42c5": {
+            "format": "png",
+            "id": "3d09e9c5258db8f40b216b85595e42c5",
+            "name": "12_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/12_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df80282c1a333600bbfcb43336e5386d": {
+            "format": "png",
+            "id": "df80282c1a333600bbfcb43336e5386d",
+            "name": "13_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/13_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "906ce91a7fc4a181c17408ea1671f663": {
+            "format": "png",
+            "id": "906ce91a7fc4a181c17408ea1671f663",
+            "name": "14_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/14_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76e021ba4506ac0feb695a1ce9c9512b": {
+            "format": "png",
+            "id": "76e021ba4506ac0feb695a1ce9c9512b",
+            "name": "15_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/15_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ca41dd6780c06c56f72fceba3f9508f8": {
+            "format": "png",
+            "id": "ca41dd6780c06c56f72fceba3f9508f8",
+            "name": "16_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/16_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2625a979ef70a5d2589a71394c320fbd": {
+            "format": "png",
+            "id": "2625a979ef70a5d2589a71394c320fbd",
+            "name": "17_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/17_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c922cfd214c007c12114d82d07400f6c": {
+            "format": "png",
+            "id": "c922cfd214c007c12114d82d07400f6c",
+            "name": "18_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/18_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "afc327b379a2c177457526a7d47ae8f2": {
+            "format": "png",
+            "id": "afc327b379a2c177457526a7d47ae8f2",
+            "name": "19_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/19_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d785b3c9551d0d69a60b903d7536286": {
+            "format": "png",
+            "id": "5d785b3c9551d0d69a60b903d7536286",
+            "name": "1_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/1_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8af5afa0447f33a6284f7e26a0d67419": {
+            "format": "png",
+            "id": "8af5afa0447f33a6284f7e26a0d67419",
+            "name": "20_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/20_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e660bcb054fbff1291d1ac4e10962b5": {
+            "format": "png",
+            "id": "5e660bcb054fbff1291d1ac4e10962b5",
+            "name": "21_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/21_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1eeb6903c397d7e39c97c8b4756ab2f0": {
+            "format": "png",
+            "id": "1eeb6903c397d7e39c97c8b4756ab2f0",
+            "name": "22_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/22_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66657d8bf61c9830952db4d0e6070d7b": {
+            "format": "png",
+            "id": "66657d8bf61c9830952db4d0e6070d7b",
+            "name": "23_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/23_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dadd03a0bede66ca0b623153a215f8e6": {
+            "format": "png",
+            "id": "dadd03a0bede66ca0b623153a215f8e6",
+            "name": "24_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/24_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1859ab12f5369b612652d33232cfd9e1": {
+            "format": "png",
+            "id": "1859ab12f5369b612652d33232cfd9e1",
+            "name": "25_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/25_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f64ea95bf85567c52c67b96214dbbde": {
+            "format": "png",
+            "id": "5f64ea95bf85567c52c67b96214dbbde",
+            "name": "26_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/26_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c42206fbb5d4368c07fca8f5f28d7c7": {
+            "format": "png",
+            "id": "3c42206fbb5d4368c07fca8f5f28d7c7",
+            "name": "27_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/27_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b63d8c72034d24a44b9745f08cdc041": {
+            "format": "png",
+            "id": "3b63d8c72034d24a44b9745f08cdc041",
+            "name": "28_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/28_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "916a341b395d2ef2cbd552ae1e8f2f88": {
+            "format": "png",
+            "id": "916a341b395d2ef2cbd552ae1e8f2f88",
+            "name": "29_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/29_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4412a6e263bb45fc9dc1fef736e26925": {
+            "format": "png",
+            "id": "4412a6e263bb45fc9dc1fef736e26925",
+            "name": "2_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/2_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41f00b76240b07d1ccecd6410e19aa3a": {
+            "format": "png",
+            "id": "41f00b76240b07d1ccecd6410e19aa3a",
+            "name": "30_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/30_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03394f840946c209d11b76b88ac8f62f": {
+            "format": "png",
+            "id": "03394f840946c209d11b76b88ac8f62f",
+            "name": "31_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/31_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9130ca6b9204075a4f1fc6a1f663223f": {
+            "format": "png",
+            "id": "9130ca6b9204075a4f1fc6a1f663223f",
+            "name": "32_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/32_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "87fc51481964c6c2253a32227d36f651": {
+            "format": "png",
+            "id": "87fc51481964c6c2253a32227d36f651",
+            "name": "33_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/33_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c34a0d7c3d53fad4f953b17145ffdac": {
+            "format": "png",
+            "id": "1c34a0d7c3d53fad4f953b17145ffdac",
+            "name": "34_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/34_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b7164427ca1b63d1fbab4bf0d5440e69": {
+            "format": "png",
+            "id": "b7164427ca1b63d1fbab4bf0d5440e69",
+            "name": "35_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/35_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ad764bd0378b24676f26a679ec92fa43": {
+            "format": "png",
+            "id": "ad764bd0378b24676f26a679ec92fa43",
+            "name": "36_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/36_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "568652c249894cd7dda320e9712f22d6": {
+            "format": "png",
+            "id": "568652c249894cd7dda320e9712f22d6",
+            "name": "37_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/37_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "819299c50ce6c61cb2508f5596f417cb": {
+            "format": "png",
+            "id": "819299c50ce6c61cb2508f5596f417cb",
+            "name": "38_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/38_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a8bbdef69cc95ec0ffd5bb413d107d46": {
+            "format": "png",
+            "id": "a8bbdef69cc95ec0ffd5bb413d107d46",
+            "name": "39_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/39_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c0cd10508bacaa06f4b904de71c00a5": {
+            "format": "png",
+            "id": "8c0cd10508bacaa06f4b904de71c00a5",
+            "name": "3_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/3_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f9ff4a49084b59316a8dd8424c3fdee": {
+            "format": "png",
+            "id": "0f9ff4a49084b59316a8dd8424c3fdee",
+            "name": "40_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/40_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63bdead3db71fa35964bdc5d34115004": {
+            "format": "png",
+            "id": "63bdead3db71fa35964bdc5d34115004",
+            "name": "41_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/41_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71d97778270eecc94031da0a758dd28f": {
+            "format": "png",
+            "id": "71d97778270eecc94031da0a758dd28f",
+            "name": "42_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/42_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9c07280871787cb160fd0f335fc96dd": {
+            "format": "png",
+            "id": "f9c07280871787cb160fd0f335fc96dd",
+            "name": "43_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/43_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "08a67dcf86762aa0523e2645cff2212a": {
+            "format": "png",
+            "id": "08a67dcf86762aa0523e2645cff2212a",
+            "name": "44_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/44_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fff27ccb11839ebe126913626639828a": {
+            "format": "png",
+            "id": "fff27ccb11839ebe126913626639828a",
+            "name": "45_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/45_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aad2ee629a22dddd5807e801276b2450": {
+            "format": "png",
+            "id": "aad2ee629a22dddd5807e801276b2450",
+            "name": "46_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/46_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4036a4a9293a1a0970f0eb995d116850": {
+            "format": "png",
+            "id": "4036a4a9293a1a0970f0eb995d116850",
+            "name": "47_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/47_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c667c8cb807bb9554a127f5d894862c3": {
+            "format": "png",
+            "id": "c667c8cb807bb9554a127f5d894862c3",
+            "name": "48_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/48_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de99fc687c5b6035cb71034801808399": {
+            "format": "png",
+            "id": "de99fc687c5b6035cb71034801808399",
+            "name": "49_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/49_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b8ab22ff1f81e1ef413ba200a646eae": {
+            "format": "png",
+            "id": "0b8ab22ff1f81e1ef413ba200a646eae",
+            "name": "4_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/4_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cdb9d6aa1a813ec496edcd669f3702d7": {
+            "format": "png",
+            "id": "cdb9d6aa1a813ec496edcd669f3702d7",
+            "name": "50_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/50_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24ebf9dc7f63831440b419d525db1ac0": {
+            "format": "png",
+            "id": "24ebf9dc7f63831440b419d525db1ac0",
+            "name": "51_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/51_Color.png",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "332400d12bb2d04826e18aa6aff6090b": {
+            "format": "png",
+            "id": "332400d12bb2d04826e18aa6aff6090b",
+            "name": "5_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/5_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "457cd874311e19d1c24c5ca92964da58": {
+            "format": "png",
+            "id": "457cd874311e19d1c24c5ca92964da58",
+            "name": "6_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/6_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55efee1db633050aaba2618aad939a6e": {
+            "format": "png",
+            "id": "55efee1db633050aaba2618aad939a6e",
+            "name": "7_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/7_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f0af4f5ce79ea5938567f1d6a6068d8": {
+            "format": "png",
+            "id": "6f0af4f5ce79ea5938567f1d6a6068d8",
+            "name": "8_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/8_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b91f9cf6ff231cb13db9a98148a0271c": {
+            "format": "png",
+            "id": "b91f9cf6ff231cb13db9a98148a0271c",
+            "name": "9_Color.png",
+            "path": "file:C:/Users/box/Desktop/training/9_Color.png",
+            "size": {
+                "width": 1280,
+                "height": 720
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

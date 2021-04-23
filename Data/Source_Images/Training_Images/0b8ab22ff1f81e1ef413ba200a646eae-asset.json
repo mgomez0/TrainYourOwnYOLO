@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "0b8ab22ff1f81e1ef413ba200a646eae",
+        "name": "4_Color.png",
+        "path": "file:C:/Users/box/Desktop/training/4_Color.png",
+        "size": {
+            "width": 1280,
+            "height": 720
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-V_yCjQD-",
+            "type": "RECTANGLE",
+            "tags": [
+                "fuelport"
+            ],
+            "boundingBox": {
+                "height": 83.37662337662339,
+                "width": 71.67376749847838,
+                "left": 566.2568472306756,
+                "top": 629.6103896103897
+            },
+            "points": [
+                {
+                    "x": 566.2568472306756,
+                    "y": 629.6103896103897
+                },
+                {
+                    "x": 637.930614729154,
+                    "y": 629.6103896103897
+                },
+                {
+                    "x": 637.930614729154,
+                    "y": 712.987012987013
+                },
+                {
+                    "x": 566.2568472306756,
+                    "y": 712.987012987013
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
